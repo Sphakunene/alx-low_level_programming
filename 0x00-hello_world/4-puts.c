@@ -2,7 +2,7 @@
 /**
  *main- entry point
  *this function print a string of words
- *Return always 0 (success)
+ *Return: Always 0 (Success)
  */
 
 int main(void)
