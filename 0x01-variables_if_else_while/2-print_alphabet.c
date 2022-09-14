@@ -4,7 +4,7 @@
  *
  *Description : this program prints  the alphabet in lowercase
  *
- *Return : 0 always (success)
+ *Return: 0 always (success)
  */
 
 int main(void)
