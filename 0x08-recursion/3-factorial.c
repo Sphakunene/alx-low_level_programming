@@ -1,7 +1,8 @@
 /**
  * factorial - function return the factorial of the given number
  * @n : number to find a factor
- * Return : factorial of a number
+ *
+ * Return: factorial of a number passed
  */
 int factorial(int n)
 {
